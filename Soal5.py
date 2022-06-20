@@ -31,7 +31,7 @@ while active:
 
     if inputuser == '1':
         nama = input("Masukkan Nama : ")
-        nim = input("Masukkan NIM  : ")
+        nim = input("Masukkan Nomor Induk Mahasiswa  : ")
 
         if len(nama) == 0 and len(nim) == 0:
             print("Data Kosong")
